@@ -1,4 +1,4 @@
-import apiClient from "@/lib/apiclient";
+import apiClient from "@/lib/apiClient";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import React from "react";
